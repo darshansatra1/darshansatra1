@@ -3,7 +3,7 @@
 ## I'm a Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute Open Source projects
+- 🥅 113 Contributions in 2020
 - ⚡ Fun fact: I love football and programming
 
 ### Connect with me:
