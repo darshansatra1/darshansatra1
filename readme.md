@@ -2,7 +2,7 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning working on Android and IOS developement
 - 🥅 113 Contributions in 2020
 - ⚡ Fun fact: I love football and programming
 
