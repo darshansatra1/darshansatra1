@@ -2,7 +2,7 @@
 
 ## I'm a Student!!
 
-- 🌱 I’m currently working on Android and IOS developement
+- 🌱 I’m currently working on Android and IOS developement along with some backend development
 - 🥅 200 Contributions in 2020
 - ⚡ Fun fact: I love football and programming
 
