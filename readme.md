@@ -1,9 +1,9 @@
 ### Hi there, I'm Darshan 👋
 
 ## I'm a Student!!
-
-- 🌱 I’m currently working on Android and IOS developement along with some backend development
-- 🥅 200 Contributions in 2020
+- Currently pursuing Master's in Computer Science at Indiana University - Bloomington.
+- 🌱 I’m currently working on Mobile App development, React.js along with some backend development
+- 🥅 91 Contributions in 2022
 - ⚡ Fun fact: I love football and programming
 
 ### Connect with me:
