@@ -1,9 +1,6 @@
 ### Hi there, I'm Darshan 👋
 
-## I'm a Student!!
-- Currently pursuing Master's in Computer Science at Indiana University - Bloomington.
-- 🌱 I’m currently working on Mobile App development, React.js along with some backend development
-- 🥅 91 Contributions in 2022
+- 🌱 I’m currently working at Tiktok
 - ⚡ Fun fact: I love football and programming
 
 ### Connect with me:
